@@ -1,2 +1,2 @@
-# HelloWorldProject1
+# JavaProject1
 build java program
